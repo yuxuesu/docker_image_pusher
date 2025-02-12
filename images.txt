@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 redis
 mongo
-doubebly/doube-itv
+doubebly/doube-itv:latest
